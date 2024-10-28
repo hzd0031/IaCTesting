@@ -11,6 +11,7 @@ from util import Util
 
 class AntiPatternDetector(ABC):
     def __init__(self):
+        
         pass
     
     @abstractmethod
